@@ -1,0 +1,34 @@
+# Qt Creator
+*.user
+*.user.*
+*.pro.user
+*.pro.user.*
+
+# Build directories
+build/
+debug/
+release/
+out/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+
+# Qt MOC generated files
+moc_*
+moc_*.cpp
+moc_*.h
+
+# Qt generated files
+qrc_*
+ui_*
+
+# Application generated files
+history.txt
+
+# IDE temporary files
+*.autosave
